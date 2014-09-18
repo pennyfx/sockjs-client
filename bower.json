@@ -1,0 +1,16 @@
+{
+  "name": "sockjs-client",
+  "version": "1.0.0-alpha1-bower",
+  "homepage": "https://github.com/pennyfx/sockjs-client",
+  "authors": [
+    "Arron Schaar"
+  ],
+  "main": ["build/sockjs.js"],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
